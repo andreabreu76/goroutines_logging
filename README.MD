@@ -54,37 +54,10 @@ A função apresentada no repositório realiza a listagem de mudanças de plant�
 
 ---
 
-## 📦 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/goroutines-advanced-logging.git
-   cd goroutines-advanced-logging
-   ```
-
-2. Instale as dependências:
-   ```bash
-   go mod tidy
-   ```
-
-3. Configure o MongoDB no arquivo de configuração.
-
-4. Execute o servidor:
-   ```bash
-   go run main.go
-   ```
-
-5. Faça uma requisição para a rota:
-   ```bash
-   curl http://localhost:3000/change-duties?page=1&limit=10
-   ```
-
----
-
 ## 📝 Licença
 
 Este repositório está disponível apenas para fins educacionais e como exemplo de portfólio. A publicação deste trecho foi autorizada pelo proprietário original.
 
 ---
 
-Criado por [Seu Nome](https://github.com/seu-usuario).
+Criado por [Andre Abreu](https://github.com/andreabreu76).
